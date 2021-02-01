@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 print("Hello World")
 print("i'm baymax")
 print("cute ako")
 print("BLACKPINK #1")
 print("ITZY #2")
+=======
+print("Hello World")
+>>>>>>> 29aceb5de23df8c35f5c07041e9ee8141b6ae5b6
